@@ -10,7 +10,7 @@ O projeto utiliza tecnologias modernas de front-end e algumas bibliotecas JavaSc
 
 Você pode visualizar o projeto funcionando diretamente pelo **GitHub Pages**:
 
-👉 **[Acesse o site agora!](https://joaopaulo-io.github.fs/campeonato-municipal-2025/)**
+👉 **[Acesse o site agora!](https://joaopaulo-fs.github.io/campeonato-municipal-2025/)**
 
 ---
 

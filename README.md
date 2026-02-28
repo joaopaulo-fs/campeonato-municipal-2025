@@ -10,7 +10,7 @@ O projeto utiliza tecnologias modernas de front-end e algumas bibliotecas JavaSc
 
 Você pode visualizar o projeto funcionando diretamente pelo **GitHub Pages**:
 
-👉 **[Acesse o site agora!](https://joaopaulo-io.github.io/campeonato-municipal-2025/)**
+👉 **[Acesse o site agora!](https://joaopaulo-io.github.fs/campeonato-municipal-2025/)**
 
 ---
 
@@ -91,7 +91,7 @@ https://github.com/user-attachments/assets/465eed18-e324-4487-938a-72dba587bb00
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/joaopaulo-io/campeonato-municipal-2025.git
+git clone https://github.com/joaopaulo-fs/campeonato-municipal-2025.git
 ```
 
 2. Abra o arquivo `index.html` no navegador.

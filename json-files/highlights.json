@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "data": "26/10",
+    "dataISO": "2025-10-26",
+    "hora": "16:00",
+    "estadio": "Estádio Municipal",
+    "diaSemana": "Domingo",
+    "jogo": "Grupo A",
+    "equipe_mandante": "Vila Nova",
+    "escudo_mandante": "vilanova.png",
+    "gols_mandante": 5,
+    "equipe_visitante": "Lagoa do Mato",
+    "escudo_visitante": "lagoadomato.png",
+    "gols_visitante": 0
+  },
+  {
+    "id": 2,
+    "data": "26/10",
+    "dataISO": "2025-10-26",
+    "hora": "18:00",
+    "estadio": "Estádio Municipal",
+    "diaSemana": "Domingo",
+    "jogo": "Grupo B",
+    "equipe_mandante": "Atlético Portela",
+    "escudo_mandante": "atleticoportela.png",
+    "gols_mandante": 3,
+    "equipe_visitante": "Liverpool",
+    "escudo_visitante": "liverpool.png",
+    "gols_visitante": 0
+  },
+  {
+    "id": 3,
+    "data": "04/01",
+    "dataISO": "2025-01-04",
+    "hora": "18:00",
+    "estadio": "Estádio Municipal",
+    "diaSemana": "Domingo",
+    "jogo": "Quartas de final",
+    "equipe_mandante": "Atlético Portela",
+    "escudo_mandante": "atleticoportela.png",
+    "gols_mandante": 1,
+    "equipe_visitante": "Vila Nova",
+    "escudo_visitante": "vilanova.png",
+    "gols_visitante": 2
+  },
+  {
+    "id": 4,
+    "data": "01/02",
+    "dataISO": "2026-02-01",
+    "hora": "16:00",
+    "estadio": "Estádio Municipal",
+    "diaSemana": "Domingo",
+    "jogo": "Final",
+    "equipe_mandante": "Vila Nova",
+    "escudo_mandante": "vilanova.png",
+    "gols_mandante": 0,
+    "equipe_visitante": "Poder Negro",
+    "escudo_visitante": "podernegro.png",
+    "gols_visitante": 2
+  }
+]
